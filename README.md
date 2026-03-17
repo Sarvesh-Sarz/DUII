@@ -60,7 +60,7 @@ A full Android app built in React Native around the DUII formula.
 - 📱 **Auto Fetch** — reads real screen time from Android's UsageStats API
 - ✏️ **Manual Input** — sliders for all 4 variables with live score calculation
 -  **History Tracking** — saves every entry locally on device with charts
-- 🔮 **Insights Tab** — trend detection, 7-day projection, early burnout alerts
+-  **Insights Tab** — trend detection, 7-day projection, early burnout alerts
 -  **Dark & Light mode**
 -  **100% local** — no data sent to any server
 
