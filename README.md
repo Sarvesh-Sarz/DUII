@@ -61,7 +61,7 @@ A full Android app built in React Native around the DUII formula.
 - ✏️ **Manual Input** — sliders for all 4 variables with live score calculation
 - 📊 **History Tracking** — saves every entry locally on device with charts
 - 🔮 **Insights Tab** — trend detection, 7-day projection, early burnout alerts
-- 🌙 **Dark & Light mode**
+-  **Dark & Light mode**
 -  **100% local** — no data sent to any server
 
 ### Insights Engine
