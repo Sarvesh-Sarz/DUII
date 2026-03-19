@@ -985,4 +985,4 @@ const styles = (theme: typeof DARK) => StyleSheet.create({
   gradientBar:    {height: 10, borderRadius: 6, marginBottom: 16, backgroundColor: '#00c49a'},
   rangeGrid:      {flexDirection: 'row', flexWrap: 'wrap', gap: 10},
   rangeCard:      {width: '47%', backgroundColor: theme.card2, borderWidth: 1, borderColor: theme.border, borderRadius: 10, padding: 10, borderLeftWidth: 3, gap: 3},
-});
+}));
