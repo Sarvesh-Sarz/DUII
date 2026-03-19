@@ -132,8 +132,7 @@ function computeInsights(history: any[]) {
   const latestScore = scores[n - 1];
   if (slope > 0 && latestScore < 0.8) {
     daysToSevere = Math.ceil((0.8 - latestScore) / slope);
-    if (daysToSevere > 60) daysToSevere = null; // too far, not meaningful
-  }
+    if (daysToSevere > 60) daysToSevere = null; 
 
   // Streak: consecutive days above 0.6
   let streak = 0;
